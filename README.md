@@ -1,10 +1,11 @@
 ### Hello everyone
-
-I am a current student at the University of Utah, pursuing a Computer Science Bachelors Degree</br>
+Hello Everyone!
+Current student at the University of Utah, pursuing a Computer Science Bachelors Degree</br>
 I am interested in software development, data science and web development mostly</br>
 Also interested in other fields, such as physics and nuclear engineering, but lack knowledge on those (for now)</br>
 I am willing to colaborate in any project, so feel free to reach me through any of the following methods:</br>
 panoramic56@proton.me</br>
+Also, here is my website, still a work in progress: https://bpanoramic56.github.io/Website/
 <!--
 **BPanoramic56/BPanoramic56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

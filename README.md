@@ -1,5 +1,4 @@
 ### Hello everyone
-Hello Everyone!
 Current student at the University of Utah, pursuing a Computer Science Bachelors Degree</br>
 I am interested in software development, data science and web development mostly</br>
 Also interested in other fields, such as physics and nuclear engineering, but lack knowledge on those (for now)</br>
